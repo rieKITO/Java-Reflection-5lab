@@ -2,7 +2,7 @@ package org.example;
 
 public class SODoer implements SomeOtherInterface{
     @Override
-    public void doSomethingOther() {
+    public void doSomeOther() {
         System.out.println("C");
     }
 }
